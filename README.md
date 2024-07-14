@@ -20,7 +20,7 @@ This tool scrapes likes and comments from Instagram posts through the command pr
 ## Setup
 
 ### Prerequisites
-- Python 3.x
+- Python 3.11.5
 - Google Chrome
 - ChromeDriver (Ensure the version matches your installed Chrome browser version)
 
