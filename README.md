@@ -58,7 +58,7 @@ echo 'export INSTAGRAM_PASSWORD="your_password"' >> ~/.bashrc
 
 ### Download ChromeDriver
 
-Download ChromeDriver from here and add it to your system PATH.
+Make sure to download ChromeDriver https://developer.chrome.com/docs/chromedriver and add it to your system PATH.
 
 ## Usage
 ### Command Line Interface
