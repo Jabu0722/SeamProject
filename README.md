@@ -2,7 +2,7 @@
 
 ## Instagram Data Scraper
 
-This tool scrapes likes and comments from Instagram posts through the command prompt interface. It authenticates users, validates URLs, and outputs the scraped data to a JSON format. 
+This tool scrapes likes and comments from Instagram posts through a command prompt interface. It authenticates users, validates URLs, and outputs the scraped data to a JSON format. 
 
 ## Features
 - Authenticates Instagram users
