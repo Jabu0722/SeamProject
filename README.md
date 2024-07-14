@@ -64,7 +64,7 @@ Download ChromeDriver from here and add it to your system PATH.
 ### Command Line Interface
 1. Clone the repository
 ```sh
-#Download the repository and store it in a folder. Copy and paste the folder's path and then use the following commands:
+#Create a folder for the repository. Copy and paste the folder's path and then use the following commands:
 cd YOUR_PATH
 git clone https://github.com/Jabu0722/SeamProject.git
 ```
